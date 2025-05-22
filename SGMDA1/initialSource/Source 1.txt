@@ -1,0 +1,13 @@
+Source 1
+60Co
+1173
+99.85
+1332
+99.98
+5.27
+y
+Béta
+13058
+Point source
+Isotropique
+3

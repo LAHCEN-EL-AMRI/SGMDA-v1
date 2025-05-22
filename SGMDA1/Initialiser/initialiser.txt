@@ -1,0 +1,11 @@
+11.3
+1.75
+Stainless steel
+0.5
+Mica
+1
+Argon
+500
+600
+1000
+200

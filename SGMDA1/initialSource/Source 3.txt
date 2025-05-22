@@ -1,0 +1,13 @@
+Source 3
+133Ba
+356.02
+62.05
+81
+34.1 
+10.51
+y
+CE
+25000
+Point source
+Isotropique
+4

@@ -1,0 +1,13 @@
+Source 2
+137Cs
+661.66
+85.1
+0
+0
+30.17
+y
+Gamma
+7700
+1
+Isotropique
+3
