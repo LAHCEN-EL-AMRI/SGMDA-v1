@@ -3,24 +3,24 @@
 **SGMDA v1** software is designed for the simulation and optimization of Geiger Müller detectors, allowing to improve their performance in the detection of gamma rays by varying several parameters. It also allows to study the attenuation of gamma rays through various materials.
 SGMDA v1 offers several material plates to analyze the attenuation of gamma rays. These materials are chosen for their well-defined physical properties.
 The software's graphical interface is simple and intuitive, allowing users to visualize in 3D the detector, the radiation source and the materials used.
-This helps to better understand the simulations and to adjust the parameters as needed. The software is designed to be easy to use, even for beginners in simulation. This first version only includes gamma rays. The next version of the software will add other beta and alpha particles and also new options to enrich the analyses and improve the simulation of the detectors. A PDF guide, detailing the features of SGMDA, is available at [here](https://github.com/LAHCEN-EL-AMRI/SGMDA-v1/blob/main/SGMDA1/doc/SGMDA%20Software%20Guide.pdf))
+This helps to better understand the simulations and to adjust the parameters as needed. The software is designed to be easy to use, even for beginners in simulation. This first version only includes gamma rays. The next version of the software will add other beta and alpha particles and also new options to enrich the analyses and improve the simulation of the detectors. A PDF guide, detailing the features of SGMDA, is available at [here](https://github.com/LAHCEN-EL-AMRI/SGMDA-v1/blob/main/SGMDA1/doc/SGMDA%20Software%20Guide.pdf)
 
 
 # GUI
-![GitHub2](icons/F1.png)
+![Gui](SGMDA1/icons/F1.png)
 
 
 #  window dedicated to the radioactive source parameter
 
-![Source](icons/F2.png)
+![Source](SGMDA1/icons/F2.png)
 
 #  Window dedicated to Geiger Müller detector parameters
 
-![Detector](icons/F3.png)
+![Detector](SGMDA1/icons/F3.png)
 
 #  Window dedicated to gamma ray absorption plates
 
-![Plates](icons/F4.png)
+![Plates](SGMDA1/icons/F4.png)
 
 
 # Prerequisites
